@@ -58,3 +58,12 @@ Usage:
     ax25 (AMPR AX.25) netrom (AMPR NET/ROM) rose (AMPR ROSE) 
     ipx (Novell IPX) ddp (Appletalk DDP) ec (Econet) 
     ash (Ash) x25 (CCITT X.25) 
+
+
+port 445 WIN XP
+
+msfconsole
+
+meterpreter
+
+netstat -ano
