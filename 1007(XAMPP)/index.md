@@ -1,5 +1,9 @@
 # 安裝XAMPP
 ![a.png](a.png)
+# 安裝位置在C: 且目錄下共有5個執行檔 上圖連結為xampp-control.exe
+![d.png](d.png)
+
+
 ```
 
 <!DOCTYPE html>
@@ -16,7 +20,7 @@
 </html>
 
 ```
-# 以上程式碼在使用中文時會產生亂碼，原因是編碼。
+# 以下程式碼在使用中文時會產生亂碼，原因是編碼。
 ![b.png](b.png)
 ```
 <!DOCTYPE html>
