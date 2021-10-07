@@ -17,7 +17,6 @@ c:\xampp>dir *.exe
 2013/03/30  下午 08:29           118,784 xampp_start.exe
 2013/03/30  下午 08:29           118,784 xampp_stop.exe
 ˋˋˋ
-```
 
 
 # 安裝XAMPP
