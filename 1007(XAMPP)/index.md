@@ -1,3 +1,25 @@
+ˋˋˋ
+Microsoft Windows [版本 10.0.19042.928]
+(c) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+C:\Users\user>cd c:\xampp
+
+c:\xampp>dir *.exe
+ 磁碟區 C 中的磁碟沒有標籤。
+ 磁碟區序號:  4A50-AC15
+
+ c:\xampp 的目錄
+
+2013/03/30  下午 08:29            60,928 service.exe
+2021/10/07  下午 02:27        12,521,156 uninstall.exe
+2021/04/06  下午 07:38         3,368,448 xampp-control.exe
+2013/03/30  下午 08:29           118,784 xampp_start.exe
+2013/03/30  下午 08:29           118,784 xampp_stop.exe
+               5 個檔案      16,188,100 位元組
+               0 個目錄  372,766,334,976 位元組可用
+ˋˋˋ
+
+
 # 安裝XAMPP
 ![a.png](a.png)
 # 安裝位置在C: 且目錄下共有5個執行檔 上圖連結為xampp-control.exe
