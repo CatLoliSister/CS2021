@@ -1,4 +1,4 @@
-ˋˋˋ
+```
 Microsoft Windows [版本 10.0.19042.928]
 (c) Microsoft Corporation. 著作權所有，並保留一切權利。
 
@@ -15,7 +15,7 @@ c:\xampp>dir *.exe
 2021/04/06  下午 07:38         3,368,448 xampp-control.exe
 2013/03/30  下午 08:29           118,784 xampp_start.exe
 2013/03/30  下午 08:29           118,784 xampp_stop.exe
-ˋˋˋ
+```
 
 
 # 安裝XAMPP
