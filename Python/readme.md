@@ -1,7 +1,7 @@
 # python程式教學錄影
 | 章節 | YOUTUBE網址|
 |-----|--------|
-| ch0_使用GoogleColab開發python程式 |   |
+| ch0_使用GoogleColab開發python程式 | https://youtu.be/ywwyPRhDquc  |
 | ch1_基本輸出入 |   |
 | ch2_1_數值型資料型態及其運算 |   |
 | ch2_2_字串(string)及其運算 |   |
