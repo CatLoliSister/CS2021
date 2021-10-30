@@ -21,7 +21,35 @@
 
 ## <指令>
 ```
-cat
+ls 列出當前目錄內容
+
+cd <dir> 變更當前工作目錄
+
+mkdir <dir> 在當前目錄下建立子目錄
+
+pwd 顯示當前工作目錄路徑
+
+cat <file> 輸出文件內容
+
+more <file> 分頁輸出文件內容
+
+file <file> 查看檔案類型
+
+grep <pattern> <file> 顯示文件中匹配的行
+ 
+cp <source> <dir> 複製檔案
+
+mv <src> <dst> 移動檔案
+mv <src> <dir> 變更檔名
+
+rm <file> 刪除檔案或空目錄
+
+find <path> <expression> 列出符合條件的檔案
+
+whereis <name> 查找指定文件、命令和手冊位置
+
+which <name> 搜尋系統指令位置
+
 
 
 ```
