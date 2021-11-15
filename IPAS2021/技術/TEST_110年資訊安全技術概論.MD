@@ -5,25 +5,25 @@
 1. IP 之間的傳輸，屬 OSI 模型哪一層次？
 (A) 應用層（Application Layer）
 (B) 表達層（Presentation Layer）
-(C) 網路層（Network Layer）
+(C) 網路層（Network Layer） <- IP
 (D) 傳輸層（Transport Layer）
 
 
 2.下列哪種攻擊可以用來繞過實體（Physical）和邏輯（Logical）主機安全機制？
 (A) 暴力攻擊（Brute-Force Attack）
 (B) 阻斷服務攻擊（Denial-of-Service Attack）
-(C) 社交工程（Social Engineering）
+(C) 社交工程（Social Engineering）<-
 (D) 通訊埠掃描（Port Scan）
 
 
 3.SMURF Attack 是利用何種協定進行攻擊？
-(A) ICMP
+(A) ICMP <- IP狀態
 (B) UDP
 (C) RIP
 (D) ARP
 
 4.公司對外的網站放置於下列何處？
-(A) DMZ（Demilitarized Zone）
+(A) DMZ（Demilitarized Zone）<-
 (B) Internet
 (C) Intranet
 (D) Extranet
@@ -33,32 +33,32 @@
 請問此封包是屬於何種協定的封包？
 (A) TCP
 (B) UDP
-(C) ICMP
+(C) ICMP <-
 (D) IGMP
 
 
 6.請問下列何種網路攻擊行為會使目標主機系統超出其工作負荷量，甚至導致系統癱瘓？
 (A) 社交攻擊（Social Engineering）
 (B) 流量分析（Traffic Analysis）
-(C) 阻斷式服務攻擊（Denial-of-Service Attack）
+(C) 阻斷式服務攻擊（Denial-of-Service Attack） <-
 (D) 竊聽（Sniffing）
 
 
 7.下列設備中，何者是可避免內外直接連線並隱藏內部 IP 位址？
 (A) 封包過濾防火牆（Packet-Filtering Firewall）
 (B) 狀態檢視防火牆（Stateful Inspection Firewall）
-(C) 代理伺服器（Proxy Server）
+(C) 代理伺服器（Proxy Server）<-和VPN類似
 (D) 網站應用程式防火牆（Web Application Firewall）
 
 
-8.在寄送電子郵件時，可以運用安全電子郵件簽章/密碼技術，以確保資
+8.在寄送電子郵件時，可以運用安全電子郵件`簽章`/`密碼技術`，以確保資
 訊的哪些特性？
 (1) 機密性
 (2) 完整性
-(3) 可用性
+(3) 可用性 <-沒有可用性
 (4) 鑑別性
 (A) (1), (2), (3)
-(B) (1), (2), (4)
+(B) (1), (2), (4) <-
 (C) (1), (3), (4)
 (D) (2), (3), (4)
 
@@ -66,21 +66,21 @@
 9.關於「SSL 協定」，下列敘述何者不正確？
 (A) 提供伺服器(Server)驗證
 (B) 提供客戶端(Client)安全傳輸
-(C) 提供伺服器(Server)與客戶(Client)之間的通訊加密
+(C) 提供伺服器(Server)與客戶(Client)之間的通訊加密 <-
 (D) 可絕對確保買賣交易的安全
 
 
 10.關於 TCP 協定的特性，下列敘述何者正確？
-(A) 確保資料傳送之正確性
+(A) 確保資料傳送之正確性 <-
 (B) 資料開始傳送時不需進行交握(Hand shaking)
 (C) 傳送發生錯誤時不會要求重新傳送
-(D) 傳送時所進行之檢查與偵錯機制較 UDP 簡單
+(D) 傳送時所進行之檢查與偵錯機制較 UDP 簡單 
 
 
 11. 請問下列何者非為應用層服務？
 (A) HTTP
 (B) SMTP
-(C) IPX
+(C) IPX <-
 (D) FTP
 
 
