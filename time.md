@@ -11,7 +11,9 @@
 - 路徑名稱
 - 檔案名稱
 
-## http
+## http 
+- HyperText Transfer Protocol，超文本傳輸協定
+- 
 
 ## https  ==> SSL TLS
 
